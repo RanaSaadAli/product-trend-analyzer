@@ -344,7 +344,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Name**: Rana Saad Ali Khan
-- **Email**: saad@example.com
+- **Email**: saadalikhanrana86@gmail.com
 - **GitHub**: [@RanaSaadAli](https://github.com/RanaSaadAli)
 - **LinkedIn**: [@Rana Saad Ali ](https://www.linkedin.com/in/rana-saad-ali-khan)
 
