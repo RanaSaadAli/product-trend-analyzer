@@ -44,25 +44,23 @@ This project generates graphs based on the dataset provided. Here's a preview:
 
 ## 🗂️ Table of Contents
 
-## 🗂️ Table of Contents
-
-- [🚀 Quick Start](#-quick-start)
-- [📊 Sample Output](#sample-output)
-- [📖 About the Project](#-about-the-project)
-  - [🤔 Why I built this?](#-why-i-built-this)
-  - [📚 Learning Goal](#-learning-goal)
-  - [🚀 What this project means to me](#-what-this-project-means-to-me)
-  - [🧩 Challenges & How I Solved Them](#-challenges--how-i-solved-them)
-    - [🚀 What I Learned](#-what-i-learned)
-- [⚙️ Features](#️-features)
-- [🛠️ Prerequisites](#️-prerequisites)
-- [🧪 Getting Started](#getting-started)
-- [📁 Folder Structure](#-folder-structure)
-- [🧪 Testing Instructions](#-testing-instructions)
-- [🛠️ Developer Setup](#️-developer-setup)
-- [🚀 Future Releases](#future-releases)
-- [🤝 Contributions](#contributions)
-- [📬 Contact](#contact)
+- [🚀 Quick Start](#-Quick-Start)
+- [📊 Sample Output](#Sample-Output)
+- [📖 About the Project](#-About-the-Project)
+  - [🤔 Why I built this?](#-Why-I-built-this)
+  - [📚 Learning Goal](#-Learning-Goal)
+  - [🚀 What this project means to me](#-What-this-project-means-to-me)
+  - [🧩 Challenges & How I Solved Them](#-Challenges-&-How-I-Solved-Them)
+    - [🚀 What I Learned](#-What-I-Learned)
+- [⚙️ Features](#️-Features)
+- [🛠️ Prerequisites](#️-Prerequisites)
+- [🧪 Getting Started](#Getting-started)
+- [📁 Folder Structure](#-Folder-Structure)
+- [🧪 Testing Instructions](#-Testing-Instructions)
+- [🛠️ Developer Setup](#️-Developer-Setup)
+- [🚀 Future Releases](#Future-releases)
+- [🤝 Contributions](#Contributions)
+- [📬 Contact](#Contact)
 
 
 ## 📖 About the Project
