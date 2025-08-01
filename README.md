@@ -12,7 +12,7 @@ Follow these steps to get the project up and running on your local machine.
 
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RanaSaadAli/product-trend-analyzer.git
 cd your-repo-name
 ```
 
@@ -171,7 +171,7 @@ Google Chrome (latest version)
 
 
 ```bash
-git clone https://github.com/your-username/product-trend-analyzer.git
+git clone https://github.com/RanaSaadAli/product-trend-analyzer.git
 cd product-trend-analyzer
 ```
 
@@ -276,7 +276,7 @@ Follow these steps to set up the project locally as a developer:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-trend-analyzer.git
+git clone https://github.com/RanaSaadAli/product-trend-analyzer.git
 cd product-trend-analyzer
 ```
 
@@ -346,6 +346,6 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 - **Name**: Rana Saad Ali Khan
 - **Email**: saad@example.com
 - **GitHub**: [@RanaSaadAli](https://github.com/RanaSaadAli)
-- **LinkedIn**: [Rana Saad Ali ](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Rana Saad Ali ](www.linkedin.com/in/rana-saad-ali-khan)
 
 I'm happy to connect and collaborate!
