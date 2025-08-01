@@ -1,5 +1,7 @@
 # 📦 Product Trend Analyzer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > *A modular pipeline to scrape, clean, analyze, and visualize Amazon product reviews using Python, pandas, numpy, matplotlib, selenium, Beautifulsoup4 and textblob*
 
 ## 🚀 Quick Start
@@ -334,6 +336,8 @@ Feel free to open an issue first if you want to discuss an idea before working o
 Thank you for making this project better! 💡
 
 ## license
+
+This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## Contact
 
