@@ -346,6 +346,6 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 - **Name**: Rana Saad Ali Khan
 - **Email**: saad@example.com
 - **GitHub**: [@RanaSaadAli](https://github.com/RanaSaadAli)
-- **LinkedIn**: [Rana Saad Ali ](www.linkedin.com/in/rana-saad-ali-khan)
+- **LinkedIn**: [@Rana Saad Ali ](www.linkedin.com/in/rana-saad-ali-khan)
 
 I'm happy to connect and collaborate!
