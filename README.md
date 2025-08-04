@@ -13,7 +13,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ```bash
 git clone https://github.com/RanaSaadAli/product-trend-analyzer.git
-cd your-repo-name
+cd product-trend-analyzer
 ```
 
 **Create and activate virtual enviroment**
