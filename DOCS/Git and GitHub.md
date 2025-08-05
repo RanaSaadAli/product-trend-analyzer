@@ -469,3 +469,17 @@ Here’s what each part means:
 - `main` – Is the branch name you're pushing to (replace with your branch if different).
 
 Once this is done, your code will be live on GitHub!
+
+## Beginner-Friendly Git Command Cheat Sheet
+
+|**Command**|**Purpose**|**When to Use**|**Explanation**|**Example**|
+|---|---|---|---|---|
+|`git init`|Initialize a Git repo|When you want to start version control in a folder|Converts a local folder into a Git-managed project|`git init`|
+|`git clone <url>`|Copy a remote repo|When you want to download a repo from GitHub|Clones the whole project with history|`git clone https://github.com/user/repo.git`|
+|`git add <file>`|Stage a file|Before committing changes|Tells Git which files to track in the next commit|`git add index.html`|
+|`git add .`|Stage all changes|When you want to add everything|Stages all modified and new files|`git add .`|
+|`git commit -m "msg"`|Save a snapshot|After staging your changes|Creates a snapshot with a message|`git commit -m "Fix bug"`|
+|`git status`|Check current status|Anytime during your workflow|Shows which files are staged, modified, or untracked|`git status`|
+|`git log`|See commit history|When reviewing changes|Displays past commits and messages|`git log`|
+|`git push`|Upload changes to GitHub|After committing|Pushes local commits to remote repo|`git push origin main`|
+|`git pull`|Download latest code|Before starting new work|Merges GitHub changes into your local branch|`git pull origin main`|
