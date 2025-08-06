@@ -6,7 +6,7 @@ setup(
     author_email = "saadalikhanrana86@gmail.com",
     description = "A tool for analyzing products on amazon using scraping and sentiment analysis.",
     url = "https://github.com/RanaSaadAli/product-trend-analyzer.git",
-    packages = find_packages(include=['module','module.*']),
+    packages = find_packages(include=['trend_analyzer','trend_analyzer.*']),
     install_requires = [
         'beautifulsoup4==4.13.4',
         'emoji==2.14.1',
