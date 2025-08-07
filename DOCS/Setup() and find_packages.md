@@ -233,7 +233,7 @@ setup(
 
 ```
 You can change or add fields based on your specific package.
-#### **Step 3**
+#### **Step 3: Install the Package in Editable Mode**
 After defining the package metadata in your `setup.py` file, save the file and open your terminal.  
 Navigate to the project root directory (where `setup.py` is located), and run the following command:
 ```python
@@ -247,7 +247,7 @@ This is especially useful during development, as it speeds up your workflow and 
 `pip install -e .`  
 The `-e` stands for "editable". This means your package is installed as a link, so any code changes you make will be immediately reflected without needing reinstallation.
 
-#### **Step 4**
+#### **Step 4: Test the Package with a Simple Import**
 Once your package has been installed in **editable mode**, the next step is to test whether the installation was successful.
 
 **Instructions:**
@@ -274,7 +274,7 @@ This confirms both the import and functionality of your code.
 **Note:** Replace `your_package_name` with the **name of the folder** that contains your `__init__.py` file and other module files.  
 This folder is considered the root of your package and must follow Python’s packaging structure.
 
-#### **Step 5**
+#### **Step 5:Install Your Package from GitHub in Another Project**
 
 **Overview**
 You can install your custom Python package directly from a GitHub repository using `pip`. This is useful when you want to **reuse your package in other projects** without publishing it to PyPI.
